@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**shubham1056/shubham1056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there I am @shubham1056👋 
+- 🌱 I’m currently learning MernStack Devlopement
+- 👯 I’m looking to collaborate on Web Devlopment projects
+- 💬 Ask me about Javascript And React
+- 📫 How to reach me: In linkdin
+- ⚡ Fun fact: earlier i dont like js but now i Love js
+🌐 Socials:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
