@@ -3,9 +3,9 @@
 </p>
 <ul>
   <li><b>## Hi there I am @shubham1056👋<b> </li>
-  <li>- 🌱 I’m currently learning MernStack Devlopement</li>
-  <li>- 👯 I’m looking to collaborate on Web Devlopment projects</li>
-  <li>- 💬 Ask me about Javascript And React</li>
+  <li>- 🌱 I’m Frontend Devloper</li>
+  <li>- 👯 I’m looking to collaborate on Web Devlopment projects And DEVOPS</li>
+  <li>- 💬 Ask me about Javascript,linux,sql,Devops And React</li>
   <li>- 📫 How to reach me: In linkdin</li>
   <li>- ⚡ Fun fact: earlier i dont like js but now i Love js</li>
 </ul>
